@@ -1,4 +1,4 @@
-let imgs = {};
+let imgs = ();
 let orange, banana, pear;
 
 function preload(){
